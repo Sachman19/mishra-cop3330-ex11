@@ -20,7 +20,7 @@ public class Main {
         usd /= 100;
 
         System.out.println();
-        System.out.printf("%.2f euros at an exchange rate of %f is %.2f", euros, rate, usd);
+        System.out.printf("%.2f euros at an exchange rate of %f is %.2f usd", euros, rate, usd);
 
     }
 }
